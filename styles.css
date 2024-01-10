@@ -1,0 +1,23 @@
+/* CSS styles here */
+body {
+    background-color: #cf2a14;
+}
+
+.container {
+    margin-top: 50px;
+    background-color: rgb(212, 209, 226);
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color: #0e2f53;
+    color: #ffffff;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+}
